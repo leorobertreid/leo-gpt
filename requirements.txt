@@ -1,0 +1,6 @@
+python-dotenv
+requests
+playsound
+SpeechRecognition
+openai
+pyaudio
